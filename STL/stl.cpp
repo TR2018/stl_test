@@ -89,8 +89,8 @@ using namespace std;
 //	v.push_back(10);
 //	v.push_back(20);
 //	v.insert(v.begin(),30);
-	v.insert(v.end(), 40);
-	v.insert(v.begin() + 2, 100);
+//	v.insert(v.end(), 40);
+//	v.insert(v.begin() + 2, 100);
 //	for (int i = 0; i < v.size(); i++)
 //	{
 //		cout << v[i] << "  ";
